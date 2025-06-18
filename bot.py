@@ -8,7 +8,7 @@ api_hash = '1e2d3c0c1fd09ae41a710d2daea8374b'  # Replace with your own API Hash
 
 # List of phone numbers for different accounts
 phone_numbers = [
-    "+918502921793",
+    "+919733367547",
     # Replace with another phone number
     # Add more phone numbers as needed
 ]
